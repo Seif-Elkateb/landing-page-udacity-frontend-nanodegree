@@ -60,7 +60,7 @@ p {
 
 /* ---- Layout Rules ---- */
 main {
-    margin: 10vh 1em 10vh;
+    margin: 35vh 1em 10vh;
 }
 
 .main-hero {
@@ -96,8 +96,6 @@ section:nth-of-type(even) img {
     top:10%;
 
 }
-
-
 /* ---- Module Rules ---- */
 
 /* Navigation Styles*/
@@ -163,7 +161,7 @@ section:nth-of-type(even) img {
     cursor: pointer;
     position: relative;
     top:100px;
-    transition-duration: 1s;
+    transition-duration: .7s;
 }
 .btn-visible{
     top:0px  !important

@@ -1,6 +1,6 @@
-# Landing page project udacity front end proffessional nanodegree
+# Landing page project 
 
-## Feature of the project
+## Features of the project
 
    - Navigational Menu Is Built Dynamically Through Javascript 
    - Each Section Visbile In The View Port Has An Active State 

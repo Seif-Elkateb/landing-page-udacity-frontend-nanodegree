@@ -100,7 +100,14 @@ const createItems=()=>{
       window.scrollTo({top:0,behavior:'smooth'});
     }
     //end main functions
-
+    // start code execution and set event listeners
+    createMenu();
+    setScrollBehavior();
+    document.addEventListener('scroll',setActive);
+    document.addEventListener('scroll',hideHeader);
+    document.addEventListener('scroll',setFooterActive);
+    scrollToTopbtn.addEventListener('click',scrolltop);
+    // end code execution 
      
   
   

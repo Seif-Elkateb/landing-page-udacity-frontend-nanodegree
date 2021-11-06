@@ -1,7 +1,7 @@
 # Landing page project 
 
-## Features of the project
-
+## This project is part of Udacity Frontend Nanodegree
+##    Overview
    - Navigational Menu Is Built Dynamically Through Javascript 
    - Each Section Visbile In The View Port Has An Active State 
    - The Page Scroll Smoothly When The User Click On The Dynamically Generated Menu
